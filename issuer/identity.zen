@@ -1,0 +1,5 @@
+Given I have a 'string' named 'DID_explorer'
+Given I have a 'string' named 'DID'
+Given I have a 'string' named 'resolve_DID'
+
+Then print data 
